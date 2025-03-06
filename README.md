@@ -1,2 +1,2 @@
-# riscv-c1
-RISC-V C1
+# RISC-V C1
+RISC-V Core 1
